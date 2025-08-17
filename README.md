@@ -8,7 +8,7 @@ This is official Pytorch implementation of "HSENet: Hierarchical Semantic-Enrich
  - [ ] torchvision 0.19.1
  - [ ] kornia 0.8.1
 ## To Test
-1. Downloading the pre-trained checkpoint from [best_model.pth]() and putting it in **./results/HSENet/checkpoints**.
+1. Downloading the pre-trained checkpoint from [best_model.pth](https://pan.baidu.com/s/1h1llq65EbcQB59Tabd53Qw?pwd=6rpp) and putting it in **./results/HSENet/checkpoints**.
 2. Downloading the MSRS dataset from [MSRS](https://pan.baidu.com/s/18q_3IEHKZ48YBy2PzsOtRQ?pwd=MSRS) and putting it in **./datasets**.
 3. `python test_Fusion.py`
 
